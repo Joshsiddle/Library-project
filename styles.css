@@ -432,3 +432,12 @@ footer{
         margin-bottom: 24px;
     }
 }
+
+/* boooks */
+
+.books__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
